@@ -1,0 +1,30 @@
+{
+  "name": "demock-jquery",
+  "version": "0.0.0",
+  "homepage": "https://github.com/atesgoral/demock-jquery",
+  "authors": [
+    "Ates Goral <ates@magnetiq.com>"
+  ],
+  "description": "jQuery adaptor for Demock",
+  "main": "demock-jquery.js",
+  "ignore": [
+    ".*",
+    "bower.json",
+    "README.md"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "api",
+    "test",
+    "mock",
+    "json",
+    "simulate",
+    "offline",
+    "jquery"
+  ],
+  "license": "MIT"
+}
